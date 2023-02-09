@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc7a3f0-dc61-4683-8772-1e27221deb80" name="Changes" comment="" />
+    <list default="true" id="adc7a3f0-dc61-4683-8772-1e27221deb80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Release/net6.0/Array.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Release/net6.0/Array.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Release/net6.0/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Release/net6.0/Array.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Release/net6.0/ref/Array.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Release/net6.0/ref/Array.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Release/net6.0/refint/Array.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Release/net6.0/refint/Array.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +79,8 @@
       <workItem from="1675958166432" duration="1251000" />
       <workItem from="1675959425601" duration="1094000" />
       <workItem from="1675960536641" duration="41000" />
+      <workItem from="1675960583451" duration="682000" />
+      <workItem from="1675961654689" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1675959309102</created>
@@ -94,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675959937665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added sorting array">
+      <created>1675960716237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675960716237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +123,7 @@
     <MESSAGE value="init project" />
     <MESSAGE value="vxfvd" />
     <MESSAGE value="efsrgdtfghjn" />
-    <option name="LAST_COMMIT_MESSAGE" value="efsrgdtfghjn" />
+    <MESSAGE value="Added sorting array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sorting array" />
   </component>
 </project>

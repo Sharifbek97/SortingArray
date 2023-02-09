@@ -1,15 +1,16 @@
 ﻿
- var numbers=new[] {2,10,-3,3,24,53,12};
- var count = numbers.Length;
+ var numbers= new int[20];
+ var rnd = new Random();
  
- for (var i = 0; i <count ; ++i)
+ for (var i = 0; i < 20 ; ++i)
  {
+     numbers[i] = rnd.Next(-20, 40);
      Console.Write(numbers[i]+"   ");
  }
  Console.Write("\n");
- for (var i = 0; i < count; ++i)
+ for (var i = 0; i < 20; ++i)
  {
-     for (var j = i + 1; j < count; j++)
+     for (var j = i + 1; j < 20; j++)
      {
          if (numbers[i] < numbers[j])
          {
